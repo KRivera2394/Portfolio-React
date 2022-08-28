@@ -1,0 +1,27 @@
+
+.vnvImage{
+  width: 30%;
+  height: 35vh;
+  margin: 2%;
+  border: 1px solid black;
+  flex: 0 1 20%;
+}
+
+.projectsMod{
+  flex-direction: row;
+  align-items: center;
+}
+
+.projectText{
+  flex: 1 1 100%;
+  text-align: center;
+}
+
+.vIG{
+  width: 100%;
+  height: 100%;
+}
+
+
+
+
