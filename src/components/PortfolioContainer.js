@@ -57,8 +57,8 @@ export default function PortfolioContainer() {
             <ul className="footer-links">
               <li><a href="#home" onClick={() => handlePageChange('Home')} className={currentPage === 'Home' ? 'nav-link active' : 'nav-link'}>Home</a></li>
               <li><a href="#projects"  onClick={() => handlePageChange('Projects')}className={currentPage === 'Projects' ? 'nav-link active' : 'nav-link'}>Projects</a></li>
-              <li><a href="---">Blog</a></li>
-              <li><a href="---">Contact</a></li>
+              <li><a href="#blog" onClick={() => handlePageChange('Blog')}className={currentPage === 'Blog' ? 'nav-link active' : 'nav-link'}>Blog</a></li>
+              <li><a href="#contact" onClick={() => handlePageChange('Contact')}className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}>Contact</a></li>
               <li><a href="https://bootcamp.ce.ucf.edu/coding/landing/?s=Google-Brand_RFull_&pkw=ucf%20coding%20bootcamp&pcrid=579359198633&pmt=e&utm_source=google&utm_medium=cpc&utm_campaign=GGL%7CUCF%7CSEM%7CCODING%7C-%7CONL%7C_RFull_%7CALL%7CBRD%7CEXACT%7CCore%7CBootcamp&utm_term=ucf%20coding%20bootcamp&s=google&k=ucf%20coding%20bootcamp&utm_adgroupid=108445334065&utm_locationphysicalms=9012087&utm_matchtype=e&utm_network=g&utm_device=c&utm_content=579359198633&utm_placement=&gclid=CjwKCAjwgaeYBhBAEiwAvMgp2pnWyoBPUTUIFR8EgyfIhtccN-XesXa1jL2z7mZxtKTGOBAD0poAHBoCgFcQAvD_BwE&gclsrc=aw.ds">Want to code?</a></li>
             </ul>
           </div>

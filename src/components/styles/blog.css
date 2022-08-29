@@ -1,0 +1,10 @@
+.needsWork{
+    width: 80%;
+    height: 100%;
+}
+
+.blogContainer{
+   display: flex; 
+   justify-content: center;
+   background-color: #33353d;
+}
