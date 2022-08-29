@@ -35,8 +35,9 @@ export default function PortfolioContainer() {
       <div className="container">
         <div className="row">
           <div className="col-sm-12 col-md-6">
-            <h6>About</h6>
-            <p className="text-justify"> I am a detail-oriented individual with knowledge across a broad range of applications and programming languages including Html, CSS, JavaScript, MySQL, GraphSQL. I'm always looking to utilize my programming skills to provide solutions to complex problems and create fascinating projects for users to enjoy. Also I enjoy thinking on my feet and am always open to acquiring new skills.</p>
+            {/* <h6>About</h6> */}
+            <p> I created this site using React! React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. </p>
+            <span className="text-justify"> “Simplicity is the soul of efficiency.” – Austin Freeman</span>
           </div>
 
           <div className="col-xs-6 col-md-3">
