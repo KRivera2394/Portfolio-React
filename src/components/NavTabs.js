@@ -14,7 +14,12 @@ function NavTabs({ currentPage, handlePageChange }) {
           transition={{ delay: 2.0 , type: 'tween'}}
       className="nav-item">
         <motion.a
-        whileHover={{ scale: 1.1}}
+        whileHover={{ 
+          scale: 1.1,
+          boxShadow: "0px 0px 3px 3px rgb(0 , 0 , 0)"
+          
+         
+        }}
           href="#home"
           onClick={() => handlePageChange('Home')}
           // This is a conditional (ternary) operator that checks to see if the current page is "Home"
@@ -28,6 +33,11 @@ function NavTabs({ currentPage, handlePageChange }) {
       animate={{y: 0}}
       transition={{ delay: 2.3 , type: 'tween'}} className="nav-item">
         <motion.a
+        whileHover={{ 
+          scale: 1.1,
+          boxShadow: "0px 0px 3px 3px rgb(0 , 0 , 0)"
+          
+          }}
           href="#projects"
           onClick={() => handlePageChange('Projects')}
           // Check to see if the currentPage is `About`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
@@ -40,6 +50,9 @@ function NavTabs({ currentPage, handlePageChange }) {
       animate={{y: 0}}
       transition={{ delay: 2.5 , type: 'tween'}} className="nav-item">
         <motion.a
+        whileHover={{ 
+          scale: 1.1, 
+          boxShadow: "0px 0px 3px 3px rgb(0 , 0 , 0)"}}
           href="#blog"
           onClick={() => handlePageChange('Blog')}
           // Check to see if the currentPage is `Blog`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
@@ -52,6 +65,10 @@ function NavTabs({ currentPage, handlePageChange }) {
       animate={{y: 0}}
       transition={{ delay: 2.7 , type: 'tween'}} className="nav-item">
         <motion.a
+        whileHover={{ 
+          scale: 1.1,
+          boxShadow: "0px 0px 3px 3px rgb(0 , 0 , 0)"
+        }}
           href="#contact"
           onClick={() => handlePageChange('Contact')}
           // Check to see if the currentPage is `Contact`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
