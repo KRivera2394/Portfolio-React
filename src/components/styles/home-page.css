@@ -29,8 +29,34 @@
 }
 
 #navB{
-  border-bottom: 2px solid rgb(26, 26, 26);
+  
+  border: none;
+  --bs-nav-tabs-link-active-bg: rgba(100, 100, 126, 0.99);
+  --bs-nav-tabs-border-width: 0px;
+  
+   
 }
+
+/* #navB > .nav-item > .nav-link:hover{
+  transform: scale(1.1);
+  
+} */
+
+#navB > .nav-item > .nav-link{
+  color: whitesmoke ;
+
+}
+
+
+.nav-link{
+  border-top-left-radius: 0% !important ;
+    border-top-right-radius: 0% !important ;
+    /* border: 1px solid black !important; */
+    
+    
+
+}
+
 
 .homeText{
   flex: 1;
@@ -39,6 +65,7 @@
   text-indent: 35px;
   color:#fff;
   text-align:justify;
+  line-height: 2;
   word-break:keep-all;
   align-self: center;
 }
