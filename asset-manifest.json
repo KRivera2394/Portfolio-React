@@ -1,18 +1,30 @@
 {
   "files": {
-    "main.css": "/Portfolio-React/static/css/main.ade592a7.css",
-    "main.js": "/Portfolio-React/static/js/main.5b2aab0b.js",
-    "static/media/screenshot.png": "/Portfolio-React/static/media/screenshot.184e7f4fc44513f9ccf9.png",
-    "static/media/underConstruction.jpg": "/Portfolio-React/static/media/underConstruction.ee60073d45d3686cba2a.jpg",
-    "static/media/cluster.png": "/Portfolio-React/static/media/cluster.207b2596c40d17701f17.png",
-    "static/media/HeadShot-BangJJ.jpg": "/Portfolio-React/static/media/HeadShot-BangJJ.bc4cc33bfb141999aa19.jpg",
-    "static/media/WeatherBot.png": "/Portfolio-React/static/media/WeatherBot.8512c07da98c34276358.png",
+    "main.css": "/Portfolio-React/static/css/main.2c232b50.chunk.css",
+    "main.js": "/Portfolio-React/static/js/main.50d819c1.chunk.js",
+    "main.js.map": "/Portfolio-React/static/js/main.50d819c1.chunk.js.map",
+    "runtime-main.js": "/Portfolio-React/static/js/runtime-main.88f10ecf.js",
+    "runtime-main.js.map": "/Portfolio-React/static/js/runtime-main.88f10ecf.js.map",
+    "static/css/2.a779dd76.chunk.css": "/Portfolio-React/static/css/2.a779dd76.chunk.css",
+    "static/js/2.7dac88c0.chunk.js": "/Portfolio-React/static/js/2.7dac88c0.chunk.js",
+    "static/js/2.7dac88c0.chunk.js.map": "/Portfolio-React/static/js/2.7dac88c0.chunk.js.map",
     "index.html": "/Portfolio-React/index.html",
-    "main.ade592a7.css.map": "/Portfolio-React/static/css/main.ade592a7.css.map",
-    "main.5b2aab0b.js.map": "/Portfolio-React/static/js/main.5b2aab0b.js.map"
+    "precache-manifest.437ff85625205753c2423ef0756cd9cb.js": "/Portfolio-React/precache-manifest.437ff85625205753c2423ef0756cd9cb.js",
+    "service-worker.js": "/Portfolio-React/service-worker.js",
+    "static/css/2.a779dd76.chunk.css.map": "/Portfolio-React/static/css/2.a779dd76.chunk.css.map",
+    "static/css/main.2c232b50.chunk.css.map": "/Portfolio-React/static/css/main.2c232b50.chunk.css.map",
+    "static/js/2.7dac88c0.chunk.js.LICENSE.txt": "/Portfolio-React/static/js/2.7dac88c0.chunk.js.LICENSE.txt",
+    "static/media/HeadShot-BangJJ.jpg": "/Portfolio-React/static/media/HeadShot-BangJJ.71c361de.jpg",
+    "static/media/WeatherBot.png": "/Portfolio-React/static/media/WeatherBot.77d353e6.png",
+    "static/media/cluster.png": "/Portfolio-React/static/media/cluster.a0e114d8.png",
+    "static/media/screenshot.png": "/Portfolio-React/static/media/screenshot.5785f274.png",
+    "static/media/underConstruction.jpg": "/Portfolio-React/static/media/underConstruction.1434fb01.jpg"
   },
   "entrypoints": [
-    "static/css/main.ade592a7.css",
-    "static/js/main.5b2aab0b.js"
+    "static/js/runtime-main.88f10ecf.js",
+    "static/css/2.a779dd76.chunk.css",
+    "static/js/2.7dac88c0.chunk.js",
+    "static/css/main.2c232b50.chunk.css",
+    "static/js/main.50d819c1.chunk.js"
   ]
 }
