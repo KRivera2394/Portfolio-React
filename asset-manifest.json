@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Portfolio-React/static/css/main.2c232b50.chunk.css",
-    "main.js": "/Portfolio-React/static/js/main.50d819c1.chunk.js",
-    "main.js.map": "/Portfolio-React/static/js/main.50d819c1.chunk.js.map",
+    "main.js": "/Portfolio-React/static/js/main.3b2523da.chunk.js",
+    "main.js.map": "/Portfolio-React/static/js/main.3b2523da.chunk.js.map",
     "runtime-main.js": "/Portfolio-React/static/js/runtime-main.88f10ecf.js",
     "runtime-main.js.map": "/Portfolio-React/static/js/runtime-main.88f10ecf.js.map",
     "static/css/2.a779dd76.chunk.css": "/Portfolio-React/static/css/2.a779dd76.chunk.css",
     "static/js/2.7dac88c0.chunk.js": "/Portfolio-React/static/js/2.7dac88c0.chunk.js",
     "static/js/2.7dac88c0.chunk.js.map": "/Portfolio-React/static/js/2.7dac88c0.chunk.js.map",
     "index.html": "/Portfolio-React/index.html",
-    "precache-manifest.437ff85625205753c2423ef0756cd9cb.js": "/Portfolio-React/precache-manifest.437ff85625205753c2423ef0756cd9cb.js",
+    "precache-manifest.fe42dc9e45f65ecc14f515cec2aaceef.js": "/Portfolio-React/precache-manifest.fe42dc9e45f65ecc14f515cec2aaceef.js",
     "service-worker.js": "/Portfolio-React/service-worker.js",
     "static/css/2.a779dd76.chunk.css.map": "/Portfolio-React/static/css/2.a779dd76.chunk.css.map",
     "static/css/main.2c232b50.chunk.css.map": "/Portfolio-React/static/css/main.2c232b50.chunk.css.map",
     "static/js/2.7dac88c0.chunk.js.LICENSE.txt": "/Portfolio-React/static/js/2.7dac88c0.chunk.js.LICENSE.txt",
     "static/media/HeadShot-BangJJ.jpg": "/Portfolio-React/static/media/HeadShot-BangJJ.71c361de.jpg",
-    "static/media/WeatherBot.png": "/Portfolio-React/static/media/WeatherBot.77d353e6.png",
     "static/media/cluster.png": "/Portfolio-React/static/media/cluster.a0e114d8.png",
+    "static/media/elevate.png": "/Portfolio-React/static/media/elevate.426f4db9.png",
     "static/media/screenshot.png": "/Portfolio-React/static/media/screenshot.5785f274.png",
     "static/media/underConstruction.jpg": "/Portfolio-React/static/media/underConstruction.1434fb01.jpg"
   },
@@ -25,6 +25,6 @@
     "static/css/2.a779dd76.chunk.css",
     "static/js/2.7dac88c0.chunk.js",
     "static/css/main.2c232b50.chunk.css",
-    "static/js/main.50d819c1.chunk.js"
+    "static/js/main.3b2523da.chunk.js"
   ]
 }
